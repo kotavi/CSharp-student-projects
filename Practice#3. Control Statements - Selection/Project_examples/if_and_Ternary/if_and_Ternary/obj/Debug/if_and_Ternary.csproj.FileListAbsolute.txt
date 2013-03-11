@@ -1,0 +1,5 @@
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\if_and_Ternary\if_and_Ternary\obj\Debug\ResolveAssemblyReference.cache
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\if_and_Ternary\if_and_Ternary\bin\Debug\if_and_Ternary.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\if_and_Ternary\if_and_Ternary\bin\Debug\if_and_Ternary.pdb
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\if_and_Ternary\if_and_Ternary\obj\Debug\if_and_Ternary.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\if_and_Ternary\if_and_Ternary\obj\Debug\if_and_Ternary.pdb

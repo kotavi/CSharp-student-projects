@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Output_ex">
+</Property><Property Name="Solution File" Value="F:\foreigners\Practice#1. Introduction to C#\Project_examples\Output_ex\Output_ex.sln">
+</Property><Property Name="User Options File" Value="F:\foreigners\Practice#1. Introduction to C#\Project_examples\Output_ex\Output_ex.suo">
+</Property><Property Name="Date" Value="28 января 2013 г.">
+</Property><Property Name="Time" Value="12:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Output_ex.sln" Description="File successfully backed up as F:\foreigners\Practice#1. Introduction to C#\Project_examples\Output_ex\Backup\Output_ex.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Output_ex.suo" Description="File successfully backed up as F:\foreigners\Practice#1. Introduction to C#\Project_examples\Output_ex\Backup\Output_ex.suo">
+</Event><Event ErrorLevel="0" Project="Output_ex" Source="Output_ex\Output_ex.csproj" Description="Project file successfully backed up as F:\foreigners\Practice#1. Introduction to C#\Project_examples\Output_ex\Backup\Output_ex\Output_ex.csproj">
+</Event><Event ErrorLevel="0" Project="Output_ex" Source="Output_ex\Program.cs" Description="File successfully backed up as F:\foreigners\Practice#1. Introduction to C#\Project_examples\Output_ex\Backup\Output_ex\Program.cs">
+</Event><Event ErrorLevel="0" Project="Output_ex" Source="Output_ex\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\foreigners\Practice#1. Introduction to C#\Project_examples\Output_ex\Backup\Output_ex\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Output_ex" Source="Output_ex\Output_ex.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Output_ex" Source="Output_ex\Output_ex.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Output_ex.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Output_ex.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Output_ex" Source="Output_ex\Output_ex.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,5 @@
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#2. C# Data Types, and IO\Project_examples\String_inp\String_inp\bin\Debug\String_inp.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#2. C# Data Types, and IO\Project_examples\String_inp\String_inp\bin\Debug\String_inp.pdb
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#2. C# Data Types, and IO\Project_examples\String_inp\String_inp\obj\Debug\ResolveAssemblyReference.cache
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#2. C# Data Types, and IO\Project_examples\String_inp\String_inp\obj\Debug\String_inp.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#2. C# Data Types, and IO\Project_examples\String_inp\String_inp\obj\Debug\String_inp.pdb

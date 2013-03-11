@@ -1,0 +1,5 @@
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\throw_example\throw_example\bin\Debug\throw_example.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\throw_example\throw_example\bin\Debug\throw_example.pdb
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\throw_example\throw_example\obj\Debug\ResolveAssemblyReference.cache
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\throw_example\throw_example\obj\Debug\throw_example.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\throw_example\throw_example\obj\Debug\throw_example.pdb

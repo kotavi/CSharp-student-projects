@@ -1,0 +1,5 @@
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\switch_goto\switch_goto\bin\Debug\switch_goto.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\switch_goto\switch_goto\bin\Debug\switch_goto.pdb
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\switch_goto\switch_goto\obj\Debug\ResolveAssemblyReference.cache
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\switch_goto\switch_goto\obj\Debug\switch_goto.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#3. Control Statements - Selection\switch_goto\switch_goto\obj\Debug\switch_goto.pdb

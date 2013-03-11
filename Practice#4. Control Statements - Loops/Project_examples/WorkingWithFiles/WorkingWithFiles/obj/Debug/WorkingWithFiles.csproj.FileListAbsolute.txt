@@ -1,0 +1,10 @@
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.pdb
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\WorkingWithFiles\WorkingWithFiles\obj\Debug\ResolveAssemblyReference.cache
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.pdb
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#4. Control Statements - Loops\Project_examples\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#4. Control Statements - Loops\Project_examples\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.pdb
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#4. Control Statements - Loops\Project_examples\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#4. Control Statements - Loops\Project_examples\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.pdb
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#4. Control Statements - Loops\Project_examples\WorkingWithFiles\WorkingWithFiles\obj\Debug\ResolveAssemblyReference.cache

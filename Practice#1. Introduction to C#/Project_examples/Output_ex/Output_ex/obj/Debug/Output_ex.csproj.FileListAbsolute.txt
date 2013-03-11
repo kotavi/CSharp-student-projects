@@ -1,0 +1,10 @@
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#1. Introduction to C#\Project_examples\Output_ex\Output_ex\obj\Debug\ResolveAssemblyReference.cache
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#1. Introduction to C#\Project_examples\Output_ex\Output_ex\bin\Debug\Output_ex.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#1. Introduction to C#\Project_examples\Output_ex\Output_ex\bin\Debug\Output_ex.pdb
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#1. Introduction to C#\Project_examples\Output_ex\Output_ex\obj\Debug\Output_ex.exe
+D:\Кафедра_Лицей\Преподавательская деятельность\foreigners\1 semester\Practices\Practice#1. Introduction to C#\Project_examples\Output_ex\Output_ex\obj\Debug\Output_ex.pdb
+F:\foreigners\Practice#1. Introduction to C#\Project_examples\Output_ex\Output_ex\obj\Debug\Output_ex.exe
+F:\foreigners\Practice#1. Introduction to C#\Project_examples\Output_ex\Output_ex\obj\Debug\Output_ex.pdb
+F:\foreigners\Practice#1. Introduction to C#\Project_examples\Output_ex\Output_ex\obj\Debug\ResolveAssemblyReference.cache
+F:\foreigners\Practice#1. Introduction to C#\Project_examples\Output_ex\Output_ex\bin\Debug\Output_ex.exe
+F:\foreigners\Practice#1. Introduction to C#\Project_examples\Output_ex\Output_ex\bin\Debug\Output_ex.pdb
