@@ -1,2 +1,2 @@
-# Class Programming with C#
+# Class: Programming with C#
 
